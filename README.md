@@ -20,6 +20,20 @@ Gained Skills:-
 
 
 
+Practicing coding problems in this websites:---
+
+
+
+
+![image](https://github.com/user-attachments/assets/11546bed-031d-461d-a96e-ec52c220b3a9)       ![image](https://github.com/user-attachments/assets/6d0c6d0e-de16-45c0-892f-14da545a3ec0)      ![image](https://github.com/user-attachments/assets/885bc12a-1e8f-4854-85f9-b49115763500)
+
+
+
+
+
+
+
+
 
 
 
