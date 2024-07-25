@@ -28,6 +28,14 @@ Practicing coding problems in this websites:---
 Certifications:-- 
 Hacker Rank : ---[problem_solving_basic certificate.pdf](https://github.com/user-attachments/files/16369733/problem_solving_basic.certificate.pdf)
 
+Language Skills:--- 
+
+
+![image](https://github.com/user-attachments/assets/003554b4-570a-450c-ae70-7f459ee2000c)      ![image](https://github.com/user-attachments/assets/6c813c5f-6013-4c8a-8c7d-5a8126280f83)
+
+
+
+
 
 
 
