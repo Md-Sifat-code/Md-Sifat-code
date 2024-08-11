@@ -8,7 +8,7 @@
 - 😄 Pronouns: Sifat
 - ⚡ Fun fact: Love to eat chocolate so much!!
 
-                                  [![GitHub Streak](https://streak-stats.demolab.com?user=Md-Sifat-code&theme=git-dark&exclude_days=Wed)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-nine-wheat.vercel.app?user=Md-Sifat-code&theme=halloween&date_format=%5BY%20%5DM%20j&exclude_days=Sun)](https://git.io/streak-stats)
 
 Gained Skills:-
 
