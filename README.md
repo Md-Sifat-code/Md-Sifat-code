@@ -8,7 +8,14 @@
 - 😄 Pronouns: Sifat
 - ⚡ Fun fact: Love to eat chocolate so much!!
 
-[![GitHub Streak](https://github-readme-streak-stats-nine-wheat.vercel.app?user=Md-Sifat-code&theme=halloween&date_format=%5BY%20%5DM%20j&exclude_days=Sun)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-nine-wheat.vercel.app?user=Md-Sifat-code&theme=halloween&date_format=%5BY%20%5DM%20j&exclude_days=Sun)](https://git.io/streak-stats&theme=radical)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Sifat-code&show_icons=true&theme=radical)](https://github.com/Md-Sifat-code/github-readme-stats&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Sifat-code&size_weight=0.5&count_weight=0.5&langs_count=8&&layout=donut&theme=radical)
+
+
+
 
 Gained Skills:-
 
