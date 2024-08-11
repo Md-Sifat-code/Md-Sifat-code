@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Md-Sifat-code
+- 👋 Hi, I’m @Md-Sifat-code![brain-11343_256](https://github.com/user-attachments/assets/75e8cf95-11fb-4e51-8543-c147f4318e42)
+
 - 👀 I’m interested in Website devlopment as well as problem solving using java and python
 - 🌱 I’m currently learning java programming language and MERN web development
 - 💞️ I’m looking to collaborate on website development projects
-- 📫 you can mail me here 2015tasif@gmail.com
-- Knock me on Whatsapp:- 01762746646
-  
+- 📫 you can mail me here 2015tasif@gmail.com                                                      
+- Knock me on Whatsapp:- 01762746646                                                        
+
+                                                                        
+
 - 😄 Pronouns: Sifat
-- ⚡ Fun fact: Love to eat chocolate so much!!
+- ⚡ Fun fact: Love to eat chocolate so much!!                         
 
 [![GitHub Streak](https://github-readme-streak-stats-nine-wheat.vercel.app?user=Md-Sifat-code&theme=halloween&date_format=%5BY%20%5DM%20j&exclude_days=Sun)](https://git.io/streak-stats&theme=radical)
 
