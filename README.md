@@ -65,9 +65,9 @@ Practicing coding problems in this websites:---
 
 ## 💡 Random Dev Quote
 
-<blockquote style="color:#7fdbff;font-style: italic;">
+<blockquote style="color:#7fdbff;font-style: bold;">
     <p>“Work For 5 years . Rest For next 50 years. isFailed ? "Start Again and Shine" : "Or Cry like kid". ”</p>
-    <p style="text-align: right;color:#ff00ff;font-style: normal;">- Bill Gates</p>
+    <p style="text-align: right;color:#ff00ff;font-style: normal;">- BMD Sifat</p>
 </blockquote>
 
 
