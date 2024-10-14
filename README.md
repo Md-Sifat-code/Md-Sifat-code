@@ -63,6 +63,28 @@ Practicing coding problems in this websites:---
 ![image](https://github.com/user-attachments/assets/11546bed-031d-461d-a96e-ec52c220b3a9)    ![image](https://github.com/user-attachments/assets/bb2c2a40-7eea-45c5-93b7-79d44e04715c)       ![image](https://github.com/user-attachments/assets/afa1ecb5-af93-4fd0-8765-cf83b1512f93)      ![image](https://github.com/user-attachments/assets/b19d935f-eee9-4099-aeb9-076372b74b9b)
 
 
+## 💡 Random Dev Quote
+
+<blockquote style="color:#7fdbff;font-style: italic;">
+    <p>“Work For 5 years . Rest For next 50 years. isFailed ? "Start Again and Shine" : "Or Cry like kid". ”</p>
+    <p style="text-align: right;color:#ff00ff;font-style: normal;">- Bill Gates</p>
+</blockquote>
+
+## 🏆 GitHub Contributor Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
+
+## 📂 Top Contributed Repos
+
+- [file_read_write_with_Buffer](https://github.com/your-username/file_read_write_with_Buffer) 
+- [Digit_printing](https://github.com/your-username/Digit_printing)
+- [GUI_Calculator_Demo](https://github.com/your-username/GUI_Calculator_Demo)
+- [CUI_Counter](https://github.com/your-username/CUI_Counter)
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet)
+
+
+
 
 Certifications:-- 
 Hacker Rank : ---[problem_solving_basic certificate.pdf](https://github.com/user-attachments/files/16369733/problem_solving_basic.certificate.pdf)
