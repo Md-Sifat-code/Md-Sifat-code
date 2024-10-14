@@ -67,7 +67,7 @@ Practicing coding problems in this websites:---
 
 <blockquote style="color:#7fdbff;font-style: bold;">
     <p>“Work For 5 years . Rest For next 50 years. isFailed ? "Start Again and Shine" : "Or Cry like kid". ”</p>
-    <p style="text-align: right;color:#ff00ff;font-style: normal;">- BMD Sifat</p>
+    <p style="text-align: right;color:#ff00ff;font-style: normal;">- MD Sifat</p>
 </blockquote>
 
 
