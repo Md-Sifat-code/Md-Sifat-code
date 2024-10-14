@@ -70,7 +70,11 @@ Practicing coding problems in this websites:---
 </blockquote>
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Md-Sifat-code&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Md-Sifat-code&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 Certifications:-- 
 Hacker Rank : ---[problem_solving_basic certificate.pdf](https://github.com/user-attachments/files/16369733/problem_solving_basic.certificate.pdf)
