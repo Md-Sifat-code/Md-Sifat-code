@@ -70,19 +70,6 @@ Practicing coding problems in this websites:---
     <p style="text-align: right;color:#ff00ff;font-style: normal;">- Bill Gates</p>
 </blockquote>
 
-## 🏆 GitHub Contributor Stats
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
-
-## 📂 Top Contributed Repos
-
-- [file_read_write_with_Buffer](https://github.com/your-username/file_read_write_with_Buffer) 
-- [Digit_printing](https://github.com/your-username/Digit_printing)
-- [GUI_Calculator_Demo](https://github.com/your-username/GUI_Calculator_Demo)
-- [CUI_Counter](https://github.com/your-username/CUI_Counter)
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet)
-
 
 
 
