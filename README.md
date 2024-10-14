@@ -20,12 +20,39 @@
 
 
 
-Gained Skills:-
+
+## 🌐 Socials:
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/](https://www.facebook.com/profile.php?id=100011819080765))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/](https://www.instagram.com/sifa.t004/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/md-sifat-follow)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/](https://www.youtube.com/@RicoX96))
 
 
 
-![image](https://github.com/user-attachments/assets/d15150fa-2f68-451b-91a1-eb3d83f7a8f5)    ![image](https://github.com/user-attachments/assets/fbaa7e0c-c4a7-46f9-98f4-f8e850ad1502)     ![image](https://github.com/user-attachments/assets/a85e708e-74c0-4337-aab3-26585453cdcd)     ![image](https://github.com/user-attachments/assets/54047805-6d9d-4c28-935a-027c0556b2df)     ![image](https://github.com/user-attachments/assets/cedab6c9-9621-434d-80ea-e645af6a71d3)     ![image](https://github.com/user-attachments/assets/60467f56-e124-4688-a0f9-20ed824a546c)      ![image](https://github.com/user-attachments/assets/c682edfc-c14e-4cb3-8669-509aeaea7252)      ![image](https://github.com/user-attachments/assets/19f72497-85a8-4199-9514-ccba1c135d64)     ![image](https://github.com/user-attachments/assets/6e74ad51-d3fa-4c6e-93c8-1374d1bedd8e)    ![image](https://github.com/user-attachments/assets/7046a6f9-2e55-4d72-a689-f2dc4186aef2) 
+## 💻 Tech Stack:
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 
 
