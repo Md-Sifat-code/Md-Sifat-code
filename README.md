@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Md-Sifat-code![brain-11343_256](https://github.com/user-attachments/assets/75e8cf95-11fb-4e51-8543-c147f4318e42)
 
-- 👀 I’m interested in Website devlopment as well as problem solving using java and python
-- 🌱 I’m currently learning java programming language and MERN web development
+- 👀 I’m a Professional Frontend Developer with React Js. Have 1 year of Real world Project Exprience
+- 🌱 I’m currently learning Spring Boot and Flutter App development 
 - 💞️ I’m looking to collaborate on website development projects
 - 📫 you can mail me here 2015tasif@gmail.com                                                      
 - Knock me on Whatsapp:- 01762746646                                                        
