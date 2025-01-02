@@ -1,15 +1,72 @@
-- 👋 Hi, I’m @Md-Sifat-code![brain-11343_256](https://github.com/user-attachments/assets/75e8cf95-11fb-4e51-8543-c147f4318e42)
+![brain-11343_256](https://github.com/user-attachments/assets/75e8cf95-11fb-4e51-8543-c147f4318e42)
 
-- 👀 I’m a Professional Frontend Developer with React Js. Have 1 year of Real world Project Exprience
-- 🌱 I’m currently learning Spring Boot and Flutter App development 
-- 💞️ I’m looking to collaborate on website development projects
-- 📫 you can mail me here 2015tasif@gmail.com                                                      
-- Knock me on Whatsapp:- 01762746646                                                        
+### Hi there 👋
 
-                                                                        
+I’m **MD Sifat Bin Jibon**, a passionate software developer from Dhaka, Bangladesh.
 
-- 😄 Pronouns: Sifat
-- ⚡ Fun fact: Love to eat chocolate so much!!                         
+---
+
+### 🔭 Currently Working On:
+- A meeting web app similar to AirBnb
+
+### 🌱 Currently Learning:
+- Docker
+- Supabase
+- AWS
+- Three JS
+
+### 💬 Ask Me About:
+- React.js
+- Next.js
+- Flutter
+- Firebase
+- Anything tech-related here!
+
+### ⚡ Fun Fact:
+- Game of Thrones Night's Watch cloaks are made from Ikea rugs 🧥
+
+---
+
+### 🎓 Education
+- **United International University**  
+  Bachelor's degree in Computer Science (August 2023 - August 2027)
+  
+- **Dhaka Residential Model College**  
+  HSC in  (2020 - 2022)
+
+---
+
+### 💼 Experience
+- **Upwork**  
+  ⭐ Top Rated | Web Developer (May 2023 - Present)  
+  🚀 Frontend Developer (May 2022 - Present)  
+  📱 Responsive Application Developer (August 2020 - Present)
+
+- **Agiles**  
+  👨‍💼 Founder & CEO (May 2024 - Present)
+
+---
+
+### 📜 Certifications
+- Clean Code - Academind  
+- FlutterFlow & Firebase Crash Course  
+- Start the UX Design Process  
+- Software Architecture: From Developer to Architect  
+- Crash Course on Python
+- Frontend Developer
+---
+
+### 🏆 Honors & Awards
+- 🏆 Former Nasa space App Development (2024)
+- 🏅 Selected at Idea Innovation and Care 5.0 (2024)
+- 🏅 Selected at Climate change case program(2024) 
+- 🥈 Former ICT olimpiyad participant, positioned 4th(2022)   
+- 🎖️ Selected at IUT National ICT Fest  
+
+---
+
+Thank you for visiting! Feel free to connect with me or ask questions. 🚀
+                        
 
 ![Md-Sifat-code's Stats](https://github-readme-stats.vercel.app/api?username=Md-Sifat-code&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
 
@@ -94,6 +151,8 @@ Language Skills:---
 
 
 
+Thank you for visiting! Feel free to connect with me or ask questions. 🚀
+       
  
 
 
