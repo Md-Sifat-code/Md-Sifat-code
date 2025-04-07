@@ -137,29 +137,20 @@
 
 - ![English](https://img.shields.io/badge/English-Advanced-brightgreen)
 - ![Bengali](https://img.shields.io/badge/Bengali-Native-orange)
+- ![Japanese](https://img.shields.io/badge/Japanese-Intermediate-blue)
+
+---
+
+### 🚀 Problem Solving Accounts:
+
+- [LeetCode: HEX_Sifat](https://leetcode.com/u/HEX_Sifat/)  
+- [Codeforces: HEX_Sifatt](https://codeforces.com/profile/HEX_Sifatt)
 
 ---
 
 ### 🚀 Profile Views:
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Md-Sifat-code&label=Profile%20Views&color=1&icon=6&pretty=false" />
-</a>
-
+![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=$.count&url=https%3A%2F%2Fvisitcount.itsvg.in%2Fapi%3Fid%3DMd-Sifat-code)
 
 ---
 
 Thank you for visiting! Feel free to connect with me or ask questions. 🚀
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
