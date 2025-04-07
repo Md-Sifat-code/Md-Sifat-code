@@ -43,10 +43,8 @@
 ---
 
 ### 💼 Experience:
-- **Upwork**  
-  ⭐ Top Rated | Web Developer (May 2023 - Present)  
-  🚀 Frontend Developer (May 2022 - Present)  
-  📱 Responsive Application Developer (August 2020 - Present)
+  🚀 Frontend Engineer @ Hyperlink Infosystem (March 2025 - Present)  
+  
 
 - **Agiles**  
   👨‍💼 Founder & CEO (May 2024 - Present)
@@ -64,9 +62,9 @@
 ---
 
 ### 🏆 Honors & Awards:
-- 🏆 Former NASA Space App Development (2024)  
-- 🏅 Selected at Idea Innovation and Care 5.0 (2024)  
-- 🏅 Selected at Climate Change Case Program (2024)  
+- 🏆 Top 4 in MIST Innovation 4.0 Hackathon (2025)  
+- 🏅 Selected at Idea Innovation and Care 5.0 (2024)
+- 🎖️ Top 5 in UIU CSE FEST Blockchain OLimpiyard  
 - 🥈 Former ICT Olympiad participant, positioned 4th (2022)  
 - 🎖️ Selected at IUT National ICT Fest  
 
