@@ -42,12 +42,43 @@
 
 ---
 
-### 💼 Experience:
-  🚀 Frontend Engineer @ Hyperlink Infosystem (March 2025 - Present)  
-  
+👔 Professional Experience
+Blockchain Developer — R3
 
-- **Agiles**  
-  👨‍💼 Founder & CEO (May 2024 - Present)
+September 2025 – Present
+
+Build distributed ledger solutions and smart contract workflows on Corda.
+
+Design secure transaction flows and enterprise-grade integrations.
+
+Optimize blockchain performance and reliability. 
+
+
+Chief Technology Officer (CTO) — DataSynthis
+
+September 2025 – Present
+
+Define technical vision and roadmap.
+
+Lead engineering teams and establish best practices.
+
+Drive architecture decisions for scalable platforms. 
+
+
+Junior Frontend Developer — BD Calling IT LTD
+
+March 2025 – September 2025
+
+Built responsive interfaces using React, Next.js, and Tailwind CSS.
+
+Integrated REST APIs and improved performance metrics. 
+
+
+Frontend Engineer (Intern) — Hyperlink Infosystem
+
+August 2024 – March 2025
+
+Developed reusable UI components and contributed to code quality improvements. 
 
 ---
 
@@ -61,13 +92,21 @@
 
 ---
 
-### 🏆 Honors & Awards:
-- 🏆 Top 4 in MIST Innovation 4.0 Hackathon (2025)  
-- 🏅 Selected at Idea Innovation and Care 5.0 (2024)
-- 🎖️ Top 5 in UIU CSE FEST Blockchain OLimpiyard  
-- 🥈 Former ICT Olympiad participant, positioned 4th (2022)  
-- 🎖️ Selected at IUT National ICT Fest  
+🏆 Honors & Awards
 
+These represent competitive achievements, recognitions, and certificates from national and international hackathons and innovation challenges:
+
+🎖️ Hackathon Achievements
+
+Harvard HSTL Hackathon 2025 — 4th
+
+InnovateX Hackathon — 1st Runner up
+
+NextGen Hackathon — 2nd Runner up
+
+Salesforce Hackathon — Champion
+
+Technovation Hackathon — 1st Runner up
 ---
 
 ### 💻 Tech Stack:
