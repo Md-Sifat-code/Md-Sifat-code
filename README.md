@@ -43,7 +43,8 @@
 ---
 
 👔 Professional Experience
-Blockchain Developer — R3
+
+###Blockchain Developer — R3
 
 September 2025 – Present
 
@@ -54,7 +55,7 @@ Design secure transaction flows and enterprise-grade integrations.
 Optimize blockchain performance and reliability. 
 
 
-Chief Technology Officer (CTO) — DataSynthis
+###Chief Technology Officer (CTO) — DataSynthis
 
 September 2025 – Present
 
@@ -65,7 +66,7 @@ Lead engineering teams and establish best practices.
 Drive architecture decisions for scalable platforms. 
 
 
-Junior Frontend Developer — BD Calling IT LTD
+###Junior Frontend Developer — BD Calling IT LTD
 
 March 2025 – September 2025
 
@@ -74,7 +75,7 @@ Built responsive interfaces using React, Next.js, and Tailwind CSS.
 Integrated REST APIs and improved performance metrics. 
 
 
-Frontend Engineer (Intern) — Hyperlink Infosystem
+###Frontend Engineer (Intern) — Hyperlink Infosystem
 
 August 2024 – March 2025
 
